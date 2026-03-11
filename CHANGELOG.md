@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [17.1.1](https://github.com/topgrade-rs/topgrade/compare/v17.1.0...v17.1.1) - 2026-03-11
+
+### Fixed
+
+- *(protonplus)* fix display name capitalization ([#1846](https://github.com/topgrade-rs/topgrade/pull/1846))
+
 ## [17.1.0](https://github.com/topgrade-rs/topgrade/compare/v17.0.0...v17.1.0) - 2026-03-11
 
 ### Added
